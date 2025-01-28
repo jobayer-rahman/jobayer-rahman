@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jobayer-rahman/jobayer-rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there
+# Hi there 👋
 
 I'm Jobayer Rahman, a passionate software developer and tech enthusiast. I currently work as a Backend Developer at Goama. </br>
 With over 2 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
